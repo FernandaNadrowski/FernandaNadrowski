@@ -1,7 +1,7 @@
 Olá, meu nome é Fernanda Nadrowski 😊
 ==================================
 
-Estudante de HTML, CSS e JavaScript
+Estudante de HTML, CSS, JavaScript e Angular
 
 -------------------------
 
